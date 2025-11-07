@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-4816440e","path":"/SpatialComputing/VP.html","title":"","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1762483161000,"contributors":[{"name":"Shane","email":"shane-liang@outlook.com","commits":1}]},"filePathRelative":"SpatialComputing/VP.md"}');export{t as data};
