@@ -1,0 +1,1 @@
+var e=`/images/2020-10-14-09-57-40.png`;export{e as t};
